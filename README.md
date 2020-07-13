@@ -1,6 +1,6 @@
 # authentication
 
-> A Vue.js project
+> gkandemir vue eğitiminde auth işlemini bir hayli kolaylaştıracak firebase optimizasyonu.
 
 ## Build Setup
 
